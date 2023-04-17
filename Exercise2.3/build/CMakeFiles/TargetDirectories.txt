@@ -1,0 +1,3 @@
+/home/sadi/Practice/Practice/HW/Exercise2.3/build/CMakeFiles/Exercise_2.3.dir
+/home/sadi/Practice/Practice/HW/Exercise2.3/build/CMakeFiles/edit_cache.dir
+/home/sadi/Practice/Practice/HW/Exercise2.3/build/CMakeFiles/rebuild_cache.dir
